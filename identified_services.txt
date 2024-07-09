@@ -1,0 +1,10 @@
+Host: 192.168.64.131
+  Discovered open port 22/tcp on 192.168.64.131
+  22/tcp open  ssh     syn-ack ttl 64 OpenSSH 9.6p1 Debian 2 (protocol 2.0)
+
+Host: 192.168.64.1
+  Discovered open port 445/tcp on 192.168.64.1
+  Discovered open port 88/tcp on 192.168.64.1
+  88/tcp  open  kerberos-sec  syn-ack ttl 64 Heimdal Kerberos (server time: 2024-07-09 08:50:56Z)
+  445/tcp open  microsoft-ds? syn-ack ttl 64
+
